@@ -21,7 +21,12 @@ Maruku doesn't like SyntaxHighlighter syntax, i.e. "[bash]". It will need to be 
     $ sed -in 's/\[\/bash]/\
     {% endhighlight %}\
     /g' *.markdown
-
+    $ sed -in 's/\[text]/\
+    {% highlight text %}\
+    /g' *.markdown
+    $ sed -in 's/\[\/text]/\
+    {% endhighlight %}\
+    /g' *.markdown
 
 Further Reading
 ---------------

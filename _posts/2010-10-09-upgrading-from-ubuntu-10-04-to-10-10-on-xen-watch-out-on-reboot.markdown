@@ -15,9 +15,13 @@ kernels in Ubuntu 10.10 "Maverick Meerkat" now give Xen block devices
 the same device names as other mass storage -- e.g. /dev/sda -- so you
 may need to update the configuration in PVGRUB or your other bootloader
 of choice. PVGRUB / GRUB Legacy (0.97): [shell]$ sudo vim
-/boot/grub/menu.lst[/shell] [text] \#\#\# BEGIN AUTOMAGIC KERNELS LIST
+/boot/grub/menu.lst[/shell] 
+{% highlight text %}
+ \#\#\# BEGIN AUTOMAGIC KERNELS LIST
 \# <snip\> \#\# default kernel options \# <snip\> \# kopt=root=/dev/sda1
 ro \#\# optional compat. option for lucid kernel in case of regressions
 \#\# (you may need to adjust this for your running kernel) \#
-kopt\_2\_6\_32=root=/dev/xvda1 ro [/text] [shell]$ sudo
+kopt\_2\_6\_32=root=/dev/xvda1 ro 
+{% endhighlight %}
+ [shell]$ sudo
 update-grub[/shell]
