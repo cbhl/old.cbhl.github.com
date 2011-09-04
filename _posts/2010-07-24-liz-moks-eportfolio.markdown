@@ -13,3 +13,5 @@ categories:
 The Software Engineering Class of 2014's favourite AFM student now has
 an online ePortfolio [elizabethmok.com]. Go check it out! Maybe consider
 hiring her, too. :)
+
+[elizabethmok.com]: http://elizabethmok.com/
