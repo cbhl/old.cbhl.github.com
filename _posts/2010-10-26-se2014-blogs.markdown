@@ -15,6 +15,6 @@ University of Waterloo is eligible for a blog on se2014.com. Simply send
 an email to
 mich[...](http://www.google.com/recaptcha/mailhide/d?k=01H1q9NfXU1_I8jxneC3gCNw==&c=XtmKdbE_RNLHsY3JNYynBV22qHfemyJqkY9nRpMSP6s= "Reveal this e-mail address")@uwaterloo.ca
 with your WaitIAM username. Make sure that you can receive email sent to
-*<watIAM-username\>*@uwaterloo.ca. *Note:* Known issues - the server
+*&lt;watIAM-username&gt;*@uwaterloo.ca. *Note:* Known issues - the server
 doesn't send mail, so you won't get password resets or other
 notifications (yet).

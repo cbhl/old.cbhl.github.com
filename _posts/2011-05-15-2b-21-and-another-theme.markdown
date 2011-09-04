@@ -17,7 +17,7 @@ Stuff that happened over the last six months (roughly chronological):
 -   Visited a Facebook Data Centre.
 -   Went to Stitches West with [another intern at
     Facebook](http://www.thepurpleparadox.com/).
--   Was dumped via email <3.
+-   Was dumped via email &lt;3.
 -   Filed US and Canadian Taxes.
 -   Ate out way too much.
 -   Flew SFO-YYZ to head back to Waterloo for Spring term.
