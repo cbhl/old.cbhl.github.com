@@ -5,5 +5,5 @@ lsi: false
 pygments: true
 permalink: /blog/:year/:month/:title
 
-paginate: 10
+# paginate: 10
 

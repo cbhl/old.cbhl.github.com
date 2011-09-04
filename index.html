@@ -2,3 +2,14 @@
 layout: default
 ---
 		<h1>Hello, World!</h1>
+		{% if paginator %}
+			{% for post in paginator.posts %}
+				<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+				{{ post.content }}
+			{% endfor %}
+		{% else %}
+			{% for post in site.posts %}
+				<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+				{{ post.content }}
+			{% endfor %}
+		{% endif %}
