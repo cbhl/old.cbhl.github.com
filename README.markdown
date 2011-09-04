@@ -34,6 +34,8 @@ Maruku doesn't like SyntaxHighlighter syntax, i.e. "[bash]". It will need to be 
     {% endhighlight %}\
     /g' *.markdown
 
+Also watch out for \[code lang="..."] tags.
+
 Further Reading
 ---------------
 * [GitHub Pages][]
