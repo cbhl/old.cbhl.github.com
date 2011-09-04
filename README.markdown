@@ -1,6 +1,15 @@
 cbhl.github.com
 ===============
 
+Jekyll
+------
+
+    sudo apt-get install ruby1.8-dev
+    gem install jekyll
+    sudo apt-get install blahtexml texlive-binaries python-pygments
+
+See [mojombo/jekyll/wiki/Install][https://github.com/mojombo/jekyll/wiki/Install] for more details.
+
 Further Reading
 ---------------
 * [GitHub Pages][]
