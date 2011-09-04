@@ -42,8 +42,12 @@ order to install the packages. For the lazy, you can just enter the
 following command into a terminal. (Note: If you don't understand what
 the following command does, it is highly recommended that you use
 Synaptic Package Manager to install the software yourself instead.)
-[bash]sudo aptitude install compizconfig-settings-manager
-compiz-fusion-plugins-extra xautomation[/bash] **Open the CompizConfig
+
+{% highlight bash %}
+sudo aptitude install compizconfig-settings-manager
+compiz-fusion-plugins-extra xautomation
+{% endhighlight %}
+ **Open the CompizConfig
 Settings Manager**
 [![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-300x110.png "Click System | Preferences | CompizConfig Settings Manager")](http://blog.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot.png)
 Click System | Preferences | CompizConfig Settings Manager. If you can't
@@ -68,10 +72,14 @@ Click the All category.
 Click Commands
 [![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-11-300x147.png "Here we will create commands using the xte program that will trigger the keyboard shortcuts for the Grid plugin")](http://blog.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-11.png)
 Here we will create commands using the xte program that will trigger the
-keyboard shortcuts for the Grid plugin. [bash]xte 'keydown Control\_L'
+keyboard shortcuts for the Grid plugin. 
+{% highlight bash %}
+xte 'keydown Control\_L'
 'keydown Alt\_L' 'key KP\_4' 'keyup Control\_L' 'keyup Alt\_L' xte
 'keydown Alt\_L' 'key F10' 'keyup Alt\_L' xte 'keydown Control\_L'
-'keydown Alt\_L' 'key KP\_6' 'keyup Control\_L' 'keyup Alt\_L'[/bash]
+'keydown Alt\_L' 'key KP\_6' 'keyup Control\_L' 'keyup Alt\_L'
+{% endhighlight %}
+
 [![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-12c-300x175.png "After Entering the Commands")](http://blog.azuresky.ca/blog/wp-content/uploads/2010/06/Screenshot-12c.png)
 After entering the commands, the screen should look like this.
 **Update:** Setting command 1 (the top edge binding) to read ALT-F10
