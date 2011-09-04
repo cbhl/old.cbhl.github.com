@@ -51,6 +51,8 @@ to come say hi. Perhaps I should spend more time in the labs on campus?
 > the Iron Warrior or mathNEWS, helping a cute girl/guy in AHS or AFM,
 > playing StarCraft, or setting up btrfs as root on Ubuntu 10.10, spend
 > leisure time in Waterloo so you’ll want to come back. Welcome to
-> Waterloo – come say hi; I’d love to get to know you. *[Published in
+> Waterloo – come say hi; I’d love to get to know you.
+> 
+> *Published in
 > the [Frosh Week 2010 Edition of Iron
-> Warrior](http://iwarrior.uwaterloo.ca/2010/09/06/civil-blurb/).]*
+> Warrior](http://iwarrior.uwaterloo.ca/2010/09/06/civil-blurb/).*
