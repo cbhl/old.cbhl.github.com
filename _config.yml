@@ -1,0 +1,9 @@
+auto: false
+server: false
+
+lsi: false
+pygments: true
+permalink: /blog/:year/:month/:title
+
+paginate: 10
+
