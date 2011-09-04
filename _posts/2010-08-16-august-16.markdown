@@ -1,0 +1,17 @@
+---
+author: cbhl
+date: '2010-08-16 08:16:51'
+layout: post
+slug: august-16
+status: publish
+title: August 16
+wordpress_id: '225'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100816_081226.jpg)
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100816_081156.jpg)
+I remember when viva buses first started running around here, the
+hexagonal pattern on the road in front of the vivastations was uniform.
+Look at it now!

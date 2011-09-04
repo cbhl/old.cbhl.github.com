@@ -1,0 +1,14 @@
+---
+author: cbhl
+date: '2010-10-04 19:28:26'
+layout: post
+slug: android
+status: publish
+title: 'Android '
+wordpress_id: '582'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101004_192722.jpg)
+Yay!

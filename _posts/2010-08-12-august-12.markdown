@@ -1,0 +1,14 @@
+---
+author: cbhl
+date: '2010-08-12 20:12:02'
+layout: post
+slug: august-12
+status: publish
+title: August 12
+wordpress_id: '207'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100812_132333.jpg)
+Looking down Richmond Street in Toronto

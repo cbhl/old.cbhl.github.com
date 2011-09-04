@@ -1,0 +1,16 @@
+---
+author: cbhl
+date: '2010-10-22 17:55:24'
+layout: post
+slug: samples
+status: publish
+title: Samples!
+wordpress_id: '629'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101022_175028.jpg)
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101022_174921.jpg)
+Today I came home and found shampoo and detergent samples in a box on my
+bed. Yay for on-campus mail delivery!

@@ -1,0 +1,13 @@
+---
+author: cbhl
+date: '2010-09-30 19:29:18'
+layout: post
+slug: sept-30-dinner
+status: publish
+title: Sept 30 dinner
+wordpress_id: '521'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100930_192838.jpg)

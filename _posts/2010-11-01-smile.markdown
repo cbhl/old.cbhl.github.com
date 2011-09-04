@@ -1,0 +1,14 @@
+---
+author: cbhl
+date: '2010-11-01 02:11:18'
+layout: post
+slug: smile
+status: publish
+title: :)
+wordpress_id: '648'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101101_021013.jpg)
+Studying. I think.

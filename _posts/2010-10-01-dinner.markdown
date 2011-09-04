@@ -1,0 +1,14 @@
+---
+author: cbhl
+date: '2010-10-01 20:31:59'
+layout: post
+slug: dinner
+status: publish
+title: Dinner
+wordpress_id: '523'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101001_202742.jpg)
+Yay, pan fried perogies, pear, and sugar toast.

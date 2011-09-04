@@ -1,0 +1,25 @@
+---
+author: cbhl
+date: '2011-04-23 12:45:46'
+layout: post
+slug: brownies
+status: publish
+title: Brownies
+wordpress_id: '973'
+categories:
+- Recipes
+---
+
+Baker's Brownies:
+1.  Oven: 350 F, Pan: 13"x9"
+2.  Microwave **4 oz (4 squares) unsweetened chocolate**, **3/4 cup.
+    butter/margarine** on HIGH 2 min. or until butter melted.
+3.  Stir until chocolate melted.
+4.  Stir in **2 cups sugar**.
+5.  Blend in **3 eggs *(4 eggs for extra-fudgy)*** and **1 tsp.
+    vanilla**.
+6.  Add **1 cup flour**.
+7.  Mix well, pour into pan.
+8.  Bake 30-35 min. or until toothpick comes out with fudgy crumbs.
+9.  Cool, remove from pan, cut, serve.
+

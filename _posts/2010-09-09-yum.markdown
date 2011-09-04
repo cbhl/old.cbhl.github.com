@@ -1,0 +1,14 @@
+---
+author: cbhl
+date: '2010-09-09 01:09:29'
+layout: post
+slug: yum
+status: publish
+title: Yum
+wordpress_id: '428'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100909_003417.jpg)
+Apple crumble leftovers by Winnie and Lili. They were good.

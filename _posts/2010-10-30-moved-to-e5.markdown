@@ -1,0 +1,14 @@
+---
+author: cbhl
+date: '2010-10-30 11:18:50'
+layout: post
+slug: moved-to-e5
+status: publish
+title: Moved to E5
+wordpress_id: '646'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/10/wpid-IMG_20101027_163857.jpg)
+It appears people have started moving into E5.

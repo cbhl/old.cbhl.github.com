@@ -1,0 +1,14 @@
+---
+author: cbhl
+date: '2010-09-30 13:35:38'
+layout: post
+slug: se-212
+status: publish
+title: SE 212
+wordpress_id: '519'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100930_133443.jpg)
+a typical lecture.

@@ -1,0 +1,32 @@
+---
+author: cbhl
+date: '2010-09-27 09:55:45'
+layout: post
+slug: cs-241-notes
+status: publish
+title: 'CS 241 notes '
+wordpress_id: '511'
+categories:
+- '365'
+---
+
+Where do we store value of $31 during fcn calls?\
+ Approach 1: Store as part of program.\
+ - Goes wrong with recursion.\
+ Approach 2: LIFO / Stack\
+ - Grow from bottom of memory\
+ - $30 contains first byte address following our program's memory area\
+ - Don't worry about heap for now.\
+ "PUSH $R"\
+ sw $R, -4($30)\
+ lis $R\
+ .word 4\
+ sub $30, $30, $R\
+ - first push with -4 so we can use same reg to increment stack pointer\
+ "POP $R"\
+ lis $R\
+ .word 4\
+ add $30, $30, $R\
+ lw $R, -4($30)\
+ - decrement stack pointer first so we can do the add in the register
+about to load into

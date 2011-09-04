@@ -1,0 +1,16 @@
+---
+author: cbhl
+date: '2010-08-02 20:25:06'
+layout: post
+slug: me
+status: publish
+title: Me
+wordpress_id: '190'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100802_2023201.jpg)\
+\
+
+Melanie took a picture of me at dinner.

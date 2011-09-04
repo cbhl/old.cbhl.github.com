@@ -1,0 +1,14 @@
+---
+author: cbhl
+date: '2010-08-18 16:02:43'
+layout: post
+slug: aug-18
+status: publish
+title: Aug 18
+wordpress_id: '233'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100818_160106.jpg)
+Some random dude was giving out hot sauce on the street.

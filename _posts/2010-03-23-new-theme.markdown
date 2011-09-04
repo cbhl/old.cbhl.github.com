@@ -1,0 +1,14 @@
+---
+author: cbhl
+date: '2010-03-23 09:25:03'
+layout: post
+slug: new-theme
+status: publish
+title: New Theme!
+wordpress_id: '32'
+categories:
+- Site Updates
+---
+
+There is now a new theme with an actual picture I took of clouds. (And
+I've fixed the major bugs... ishy.)

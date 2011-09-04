@@ -1,0 +1,15 @@
+---
+author: cbhl
+date: '2010-09-25 01:44:51'
+layout: post
+slug: soup
+status: publish
+title: 'Soup '
+wordpress_id: '500'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100924_174657.jpg)
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/09/wpid-IMG_20100924_180320.jpg)
+My feeble attempt at making soup.

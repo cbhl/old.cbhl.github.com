@@ -1,0 +1,15 @@
+---
+author: cbhl
+date: '2010-08-26 20:48:46'
+layout: post
+slug: aug-26
+status: publish
+title: Aug 26
+wordpress_id: '272'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100826_204720.jpg)
+View of the movie theatre and book store from the Richmond Hill Centre
+bus terminal.

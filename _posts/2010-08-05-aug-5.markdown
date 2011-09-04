@@ -1,0 +1,14 @@
+---
+author: cbhl
+date: '2010-08-05 08:29:36'
+layout: post
+slug: aug-5
+status: publish
+title: Aug 5
+wordpress_id: '198'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/08/wpid-IMG_20100805_082759.jpg)
+A viva bus entering Richmond Hill Centre.

@@ -1,0 +1,13 @@
+---
+author: cbhl
+date: '2010-11-04 01:22:33'
+layout: post
+slug: geese
+status: publish
+title: Geese
+wordpress_id: '655'
+categories:
+- '365'
+---
+
+![image](http://blog.azuresky.ca/blog/wp-content/uploads/2010/11/wpid-IMG_20101103_143745.jpg)
