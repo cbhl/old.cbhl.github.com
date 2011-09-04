@@ -10,6 +10,19 @@ Jekyll
 
 See [mojombo/jekyll/wiki/Install][https://github.com/mojombo/jekyll/wiki/Install] for more details.
 
+Migration
+---------
+
+Maruku doesn't like SyntaxHighlighter syntax, i.e. "[bash]". It will need to be replaced with Jekyll-style highlighting tags:
+
+    $ sed -in 's/\[bash]/\
+    {% highlight bash %}\
+    /g' *.markdown
+    $ sed -in 's/\[\/bash]/\
+    {% endhighlight %}\
+    /g' *.markdown
+
+
 Further Reading
 ---------------
 * [GitHub Pages][]
