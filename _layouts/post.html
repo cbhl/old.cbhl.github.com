@@ -2,9 +2,17 @@
 <html lang="en">
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" /> 
-		<title>blog.azuresky.ca - {{ title }}</title>
+		<link rel="stylesheet" type="text/css" href="/css/syntax.css" />
+		{% if page.title %}
+			<title>blog.azuresky.ca - {{ page.title }}</title>
+		{% else %}
+			<title>blog.azuresky.ca</title>
+		{% endif %}
 	</head>
 	<body>
+		{% if page.title %}
+			<h1>{{ page.title }}</h1>
+		{% endif %}
 		{{ content }}
 	</body>
 </html>
